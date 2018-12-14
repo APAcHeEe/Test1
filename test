@@ -1,0 +1,6 @@
+document.getElementsByClassName("drill_cursor")[0]
+        .addEventListener("click", function (event) {
+            .fadeout(o.5)
+        });
+
+        .style.fontsize

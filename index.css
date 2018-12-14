@@ -1,0 +1,14 @@
+body{
+	background-image: url("elonmusk.png");
+	background-color: #000
+	color: #ffffff ;
+	text-shadow: 		
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+
+	}
+	a{
+		color: #ffffff;
+	}
